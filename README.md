@@ -20,8 +20,9 @@
 - [keras.modelsのSequentialモデルの説明](https://keras.io/ja/)
 
 以下は上記ページの目次より辿れる
-- [model.compile model.fitのパラメータ]（https://keras.io/ja/models/sequential/)
+- [model.compile model.fitのパラメータ](https://keras.io/ja/models/sequential/)
 
 model.addで追加するレイヤについて
-- [Conv2D MaxPooling2Dのパラメータ]（https://keras.io/ja/layers/convolutional/)(https://keras.io/ja/layers/pooling/)
-- [Flatten Dense Dropoutのパラメータ]（https://keras.io/ja/layers/core/)
+- [Conv2Dのパラメータ](https://keras.io/ja/layers/convolutional/)
+- [MaxPooling2Dのパラメータ](https://keras.io/ja/layers/pooling/)
+- [Flatten Dense Dropoutのパラメータ](https://keras.io/ja/layers/core/)
