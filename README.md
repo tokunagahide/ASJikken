@@ -11,3 +11,7 @@
 以下をクリックするとgoogle colaboratoryでpythonの開発環境のJupyterが開く。洋服やシューズのモノクロ写真（10種類7万個）を学習し分類するニューラルネットワークを作成し，テストするプログラムです。#の行はコメントです。最初に画面上部の「ランタイム」をクリックし「すべてのランタイムをリセット」をクリックしてください。その後，コードセルの右上にある[ ]をクリックするとそのセルに書かれたプログラムが実行されます。説明を読みながら実行してください。
 - [ファッション画像を分類する](https://colab.research.google.com/github/tokunagahide/asjikken/blob/master/notebooks/Basic_Classification_ja.ipynb)
 
+
+## ９ ディープラーニングを体験する
+### 9.1 畳み込みニューラルネットワークとは
+- [畳み込みニューラルネットワークの仕組み](https://postd.cc/how-do-convolutional-neural-networks-work/)
