@@ -15,3 +15,5 @@
 ## ９ ディープラーニングを体験する
 ### 9.1 畳み込みニューラルネットワークとは
 - [畳み込みニューラルネットワークの仕組み](https://postd.cc/how-do-convolutional-neural-networks-work/)
+### 9.2 犬と猫を識別する畳み込みニューラルネットワークを作る
+- [犬と猫の画像を分類する](https://colab.research.google.com/github/tokunagahide/asjikken/blob/master/notebooks/Lesson_6-1_Dogs_vs_Cats_AS.ipynb)
