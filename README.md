@@ -17,3 +17,9 @@
 - [畳み込みニューラルネットワークの仕組み](https://postd.cc/how-do-convolutional-neural-networks-work/)
 ### 9.2 犬と猫を識別する畳み込みニューラルネットワークを作る
 - [犬と猫の画像を分類する](https://colab.research.google.com/github/tokunagahide/asjikken/blob/master/notebooks/Lesson_6-1_Dogs_vs_Cats_AS.ipynb)
+- [keras.modelsのSequentialモデルの説明](https://keras.io/ja/)
+以下は上記ページの目次より辿れる
+- [model.compile model.fitのパラメータ]（https://keras.io/ja/models/sequential/)
+model.addで追加するレイヤについて
+- [Conv2D MaxPooling2Dのパラメータ]（https://keras.io/ja/layers/convolutional/)(https://keras.io/ja/layers/pooling/)
+- [Flatten Dense Dropoutのパラメータ]（https://keras.io/ja/layers/core/)
